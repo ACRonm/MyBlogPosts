@@ -3,8 +3,6 @@ tags:
   - More
   - Tags
   - To
-  - Test
-  - Golang
 ---
 
 
