@@ -9,4 +9,4 @@ To be honest, the thought of using GitHub as a content management system is an i
 
 ![Picture of my dog, banksy](https://imagedelivery.net/P9L8ltIQd-qvSr7N3Sj8uw/eb450e4a-1dac-4669-7c83-d3b5f29f4d00/public)
 
-Sufficed to say, even though there are some drawbacks of using GitHub as a headless CMS, it seems to work quite well.
+Sufficed to say, even though there are some drawbacks of using GitHub as a headless CMS, it seems to work quite well. In fact, one of the best features of GitHub's api, is the ability to grab the last commit time. I use it for my blogs to dynamically update the "last updated" section, which shows the reader that the content could be out of date.
